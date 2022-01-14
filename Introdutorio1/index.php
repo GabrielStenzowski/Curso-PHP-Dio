@@ -6,5 +6,5 @@
 	$categorias [] = 'Adulto';
 	$categorias [] = 'Idoso';
 
-	print_r($categorias);
+	$nome = 'Eduardo'
 ?>
